@@ -1,6 +1,6 @@
 import React from 'react';
 import './Calculator.css';
-import Clear from './Clear';
+import calculate from '../logic/calculate';
 
 const Calculator = () => (
   <div className="calculator">
@@ -8,7 +8,9 @@ const Calculator = () => (
       <input className="input-display" type="text" />
     </div>
     <div className="buttons">
-      <Clear />
+      <button className="calculator-button" type="button">
+        AC
+      </button>
       <button className="calculator-button" type="button">
         +/-
       </button>
