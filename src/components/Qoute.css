@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+.qoute {
   display: flex;
   flex-direction: column;
+  background-color: aliceblue;
 }
