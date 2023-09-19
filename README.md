@@ -33,7 +33,7 @@
 
 ### Key Features
 
-- It will be updated
+- Calculator design
 
 ## Live Demo
 
@@ -45,7 +45,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-prefer-folder
-  git clone https://github.com/memicelis/Math-Magician
+  git clone https://github.com/memicelis/Math-Magician.git
 ```
 
 ### Run this command to run server
@@ -70,7 +70,6 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features
 
 - 3 sub-pages
-- Design of the page
 - Calculator
 
 ## 🤝 Contributing <a name="contributing"></a>
