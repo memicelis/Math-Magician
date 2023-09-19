@@ -34,6 +34,9 @@
 ### Key Features
 
 - Calculator design
+- Calculator functionality
+- Fetch API
+- Qoute Generator
 
 ## Live Demo
 
@@ -48,6 +51,10 @@ Clone this repository to your desired folder:
   git clone https://github.com/memicelis/Math-Magician.git
 ```
 
+### Run this command to install dependecies
+
+> npm install
+
 ### Run this command to run server
 
 > npm start
@@ -55,10 +62,6 @@ Clone this repository to your desired folder:
 ### Run this command to run tests
 
 > npm run test
-
-## 👥 Authors <a name="authors"></a>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -70,7 +73,6 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features
 
 - 3 sub-pages
-- Calculator
 
 ## 🤝 Contributing <a name="contributing"></a>
 
