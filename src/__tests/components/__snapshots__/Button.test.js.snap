@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders correctly 1`] = `
+<button
+  className="calculator-button"
+  onClick={[Function]}
+  type="button"
+>
+  5
+</button>
+`;
+
+exports[`Button renders correctly when value is 0 1`] = `
+<button
+  className="calculator-button calculator-button--0"
+  onClick={[Function]}
+  type="button"
+>
+  0
+</button>
+`;
