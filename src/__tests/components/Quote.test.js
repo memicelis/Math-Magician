@@ -1,6 +1,6 @@
 import React from 'react';
-import Quote from '../../components/Quote';
 import renderer from 'react-test-renderer';
+import Quote from '../../components/Quote';
 
 describe('testing Quote component functionality', () => {
   it('renders correctly', () => {
