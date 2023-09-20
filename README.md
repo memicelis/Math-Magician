@@ -42,7 +42,7 @@
 
 ## Live Demo
 
-Live demo will be available soon
+https://math-magician-elis.onrender.com
 
 ## Getting Started
 
