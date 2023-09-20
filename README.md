@@ -37,6 +37,7 @@
 - Calculator functionality
 - Fetch API
 - Qoute Generator
+- 3 sub-pages
 
 ## Live Demo
 
@@ -72,7 +73,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features
 
-- 3 sub-pages
+- Tests
 
 ## 🤝 Contributing <a name="contributing"></a>
 

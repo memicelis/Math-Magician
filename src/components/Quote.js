@@ -1,6 +1,6 @@
 /* eslint-disable comma-dangle */
 import { useState, useEffect } from 'react';
-import './Qoute.css';
+import styles from './Quote.module.css';
 
 const Quote = () => {
   const [data, setData] = useState({});
@@ -35,7 +35,7 @@ const Quote = () => {
 
   if (isLoading) return <div>Loading...</div>;
   return (
-    <div className="quote">
+    <div className={styles.quote}>
       <p>{data[0].quote}</p>
       <p>{data[0].author}</p>
     </div>

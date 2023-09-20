@@ -1,0 +1,7 @@
+.quote {
+  display: flex;
+  flex-direction: column;
+  background-color: #8f8f8f;
+  padding: 20px 40px;
+  font-size: 2rem;
+}

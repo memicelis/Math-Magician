@@ -4,8 +4,18 @@ body {
   box-sizing: border-box;
 }
 
+.calculator-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.calculator-container h2 {
+  font-size: 2.5rem;
+  padding: 20px;
+}
+
 .calculator {
-  padding: 100px;
+  padding: 50px;
   width: 30rem;
 }
 
