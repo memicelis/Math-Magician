@@ -38,10 +38,11 @@
 - Fetch API
 - Qoute Generator
 - 3 sub-pages
+- Testing
 
 ## Live Demo
 
-Live demo will be available soon
+https://math-magician-elis.onrender.com
 
 ## Getting Started
 
@@ -73,7 +74,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features
 
-- Tests
+- User Interface Improvements
 
 ## 🤝 Contributing <a name="contributing"></a>
 
